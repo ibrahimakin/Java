@@ -15,6 +15,7 @@ public class ListeToplam {
 		}
 		System.out.println(top);
 		
+		// {8,9} ve {20,22} toplama dahil edilmez.
 		// Toplam = 85
 	}
 }
