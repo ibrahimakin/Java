@@ -14,5 +14,7 @@ public class ListeToplam {
 			}
 		}
 		System.out.println(top);
+		
+		// Toplam = 85
 	}
 }
