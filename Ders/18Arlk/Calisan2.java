@@ -1,4 +1,3 @@
-public interface INTER {public double Hesap(); }
 public abstract class Calisan2 implements INTER {
 
 	private String name;
